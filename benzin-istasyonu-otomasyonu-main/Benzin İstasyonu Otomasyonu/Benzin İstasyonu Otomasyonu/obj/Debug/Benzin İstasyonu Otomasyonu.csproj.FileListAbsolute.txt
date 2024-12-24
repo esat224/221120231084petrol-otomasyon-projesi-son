@@ -1,0 +1,34 @@
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.exe.config
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.exe
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.pdb
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.AnaSayfa.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Login.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Properties.Resources.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.GenerateResource.cache
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.exe
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.pdb
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.DashBoard.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Hesap.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Makine.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Personel.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Tedarikci.resources
+C:\Users\Emka\Desktop\Yeni klasör\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Yakıt.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.exe.config
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.exe
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\bin\Debug\Benzin İstasyonu Otomasyonu.pdb
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.AnaSayfa.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.DashBoard.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Hesap.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Login.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Makine.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Personel.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Properties.Resources.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Tedarikci.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin_İstasyonu_Otomasyonu.Yakıt.resources
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.GenerateResource.cache
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.exe
+C:\Users\esaty\OneDrive\Masaüstü\benzin-istasyonu-otomasyonu-main\Benzin İstasyonu Otomasyonu\Benzin İstasyonu Otomasyonu\obj\Debug\Benzin İstasyonu Otomasyonu.pdb
